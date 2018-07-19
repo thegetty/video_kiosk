@@ -1,0 +1,47 @@
+{
+  "ga": "UA-8087223-32",
+  "kiosk": "GG-Kiosk-West-Pavilion-Standing",
+  "videoCount": 4,
+  "videos": [
+    {
+      "homeScreen": {
+        "image": "/images/west/art-of-change.jpg",
+        "title": "Drawing: The Art of Change",
+        "runTime": "3:53",
+        "credits": []
+      },
+      "video": "art_of_change_Final_160913_gallery.mp4",
+      "captions": "art_of_change_Final_160913_gallery.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/west/iturbide.jpg",
+        "title": "Photographer Graciela Iturbide",
+        "runTime": "2:16",
+        "credits": []
+      },
+      "video": "Iturbide_Wordmark_YouTube.mp4",
+      "captions": "iturbide.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/west/mccaw.jpg",
+        "title": "Photographer Chris McCaw",
+        "runTime": "4:06",
+        "credits": []
+      },
+      "video": "mccaw_edit_12c_9mb.mp4",
+      "captions": "mccaw.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/west/rossiter.jpg",
+        "title": "Photographer Alison Rossiter",
+        "runTime": "5:21",
+        "credits": []
+      },
+      "video": "rossiter_getty_cut_17_9mb.mp4",
+      "captions": "rossiter.vtt"
+    }
+  ]
+}

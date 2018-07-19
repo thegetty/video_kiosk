@@ -3,13 +3,31 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
     <title>video_kiosk_vue</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110656288-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    </script>
+    <script>
+      // Kiosk Pro Idle timer Check
+      
+      // Kiosk Pro Instructions:
+      // 1. Add Javascript API (kiosk_functions.js) through kiosk settings (Injection Only)
+      // 2. Set idle time limit function through kiosk pro settings (Timer Settings) 0 - 60 seconds
+
+      function KioskShouldDisableIdleTimer() {
+        let shouldDisable = window.videoPlaying ? 'YES' : 'NO'
+        return shouldDisable
+      }
+    </script>
   </head>
   <body>
     <noscript>
-      <strong>We're sorry but video_kiosk_vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+      <strong>Oh NO!<br>Something very wrong has happened.<br>Please contact <em>Kevin McGowan</em> at extension x7522.</strong>
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->

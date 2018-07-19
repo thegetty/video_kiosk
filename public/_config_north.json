@@ -1,0 +1,47 @@
+{
+  "ga": "UA-8087223-32",
+  "kiosk": "GG-Kiosk-North-Pavilion-1",
+  "videoCount": 4,
+  "videos": [
+    {
+      "homeScreen": {
+        "image": "/images/north/test.jpg",
+        "title": "Making Manuscripts",
+        "runTime": "6:20",
+        "credits": []
+      },
+      "video": "making_manuscripts_hd_remake_edit_09_ggkiosk2018.mp4",
+      "captions": "making_manuscripts.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/north/test.jpg",
+        "title": "The Cartoon Transfer Process",
+        "runTime": "4:18",
+        "credits": []
+      },
+      "video": "del_sarto_cut07_CreditsFixed_gallery.mp4",
+      "captions": "cartoons.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/north/test.jpg",
+        "title": "The Alchemy of Color",
+        "runTime": "3:46",
+        "credits": []
+      },
+      "video": "Alchemy_Of_Color_approved_cut.mp4",
+      "captions": "alchemy.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/north/test.jpg",
+        "title": "Making a Polychrome Sculpture",
+        "runTime": "12:03",
+        "credits": []
+      },
+      "video": "Making_a_Spanish_Polychrome_Sculpture_(720p).mp4",
+      "captions": "spanish_polychrome.vtt"
+    }
+  ]
+}

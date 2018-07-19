@@ -1,0 +1,47 @@
+{
+  "ga": "UA-8087223-32",
+  "kiosk": "GG-Kiosk-West-Pavilion-1",
+  "videoCount": 4,
+  "videos": [
+    {
+      "homeScreen": {
+        "image": "/images/test.jpg",
+        "title": "Drawing: The Art of Change",
+        "runTime": "3:53",
+        "credits": []
+      },
+      "video": "art_of_change_Final_160913_gallery.mp4",
+      "captions": "art_of_change_Final_160913_gallery.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/test.jpg",
+        "title": "Graciela Iturbide’s Photographic Legacy",
+        "runTime": "2:16",
+        "credits": []
+      },
+      "video": "Iturbide_Wordmark_YouTube.mp4",
+      "captions": "iturbide.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/test.jpg",
+        "title": "Chris McCaw",
+        "runTime": "4:06",
+        "credits": []
+      },
+      "video": "mccaw_edit_12c_9mb.mp4",
+      "captions": "mccaw.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/test.jpg",
+        "title": "Alison Rossiter",
+        "runTime": "5:21",
+        "credits": []
+      },
+      "video": "rossiter_getty_cut_17_9mb.mp4",
+      "captions": "rossiter.vtt"
+    }
+  ]
+}

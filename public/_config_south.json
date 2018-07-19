@@ -1,0 +1,47 @@
+{
+  "ga": "UA-8087223-32",
+  "kiosk": "GG-Kiosk-South-Bridge-Left",
+  "videoCount": 4,
+  "videos": [
+    {
+      "homeScreen": {
+        "image": "/images/south/tapestry.jpg",
+        "title": "The Art of Making a Tapestry",
+        "runTime": "9:05",
+        "credits": []
+      },
+      "video": "tapestry_finecut20_gallery.mp4",
+      "captions": "tapestry.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/south/unlocking.png",
+        "title": "Unlocking a Mechanical Table",
+        "runTime": "2:40",
+        "credits": []
+      },
+      "video": "LUX_Animation_PicLock_1280x720.mp4",
+      "captions": "french_table.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/south/art-of-change.jpg",
+        "title": "Drawing: The Art of Change",
+        "runTime": "3:53",
+        "credits": []
+      },
+      "video": "art_of_change_Final_160913_gallery.mp4",
+      "captions": "art_of_change_Final_160913_gallery.vtt"
+    },
+    {
+      "homeScreen": {
+        "image": "/images/south/charcoal.jpg",
+        "title": "Drawing with Charcoal",
+        "runTime": "4:55",
+        "credits": []
+      },
+      "video": "Noir_Video_iPad_Retina_1920x1080_Final.mp4",
+      "captions": "drawing_noir.vtt"
+    }
+  ]
+}
