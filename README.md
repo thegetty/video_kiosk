@@ -1,5 +1,10 @@
 # video_kiosk_vue
 
+
+Project Archived: 4/14/21
+
+---
+
 ## Project setup
 ```
 npm install
